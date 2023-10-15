@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lecture4BioApp</string>
+    <string name="profile_pic">profile_pic</string>
+    <string name="user_name">Mohamad Jamal</string>
+    <string name="bio">
+    Myself - Software Engineer
+    I\'m a software engineer on a journey of constant exploration and innovation.
+    With a career focused on coding and problem-solving, I\'ve spent years honing my skills and expertise.
+    My specialty lies in developing elegant solutions for complex problems, and I thrive on transforming ideas into robust software systems.
+
+    I\'ve had the privilege of working on a diverse range of projects, from startups to established enterprises, each presenting unique challenges that I\'ve eagerly embraced.
+    What excites me most is the ability to adapt to different technologies and coding paradigms, continually expanding my knowledge.
+
+    Collaboration is at the heart of my approach, and I\'m passionate about sharing my expertise and learning from others.
+    As a mentor, I\'ve had the pleasure of guiding junior developers on their journey, helping them navigate the exciting world of software engineering.
+
+    Beyond the digital realm, I draw inspiration from the world outdoors, bringing a touch of creativity to every coding challenge.
+    The dynamic nature of the tech industry keeps me engaged, and I\'m dedicated to pushing the boundaries of what\'s achievable through code.
+
+    I\'m not just a software engineer; I\'m an explorer in the world of technology, and I\'m excited about the endless possibilities it offers.
+</string>
+    <string name="bio_label">About Me:</string>
+    <string name="btn_text">add</string>
+    <string name="hobbies_editText_hint">write some of your hobbies</string>
+    <string name="achieve1">achieve1</string>
+    <string name="achieve2">achieve2</string>
+    <string name="achieve3">achieve3</string>
+    <string name="achievments_label">achievments:</string>
+
+</resources>
